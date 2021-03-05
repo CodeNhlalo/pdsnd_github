@@ -4,17 +4,19 @@
 2021-03-03
 
 ### Project Title
-Post your project on git
+Post your project on git - The bikeshare program
 
 ### Description
 It a program about a bikeshare company to analyse it customer behaviour
 
 ### Files used
 bikeshare.py
+
 first-script.py
 
 ### Credits
 CodeNhlalo
+
 https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
 
 Sudkul
