@@ -9,6 +9,8 @@ Post your project on git - The bikeshare program
 ### Description
 It a program about a bikeshare company to analyse it customer behaviour
 
+Created a branch called documentation and refactoring
+
 ### Files used
 bikeshare.py
 
